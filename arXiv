@@ -58,7 +58,7 @@ GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond
 
 
 https://github.com/aleju/imgaug   Image Augmentation
-￼
+
 
 Deep Hough Voting for 3D Object Detection in Point Clouds
 
@@ -194,3 +194,7 @@ ACNet: Strengthening the Kernel Skeletons for Powerful CNN via Asymmetric Convol
 Differentiable Learning-to-Group Channels via Groupable Convolutional Neural Networks
 
 Asymmetric Non-local Neural Networks for Semantic Segmentation
+
+Imbalance Problems in Object Detection: A Review
+
+
